@@ -38,4 +38,4 @@ This project is being improved step by step as I learn Python concepts.
 
 ## How to Run
 ```bash
-python main.py
+python main2.py
